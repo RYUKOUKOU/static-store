@@ -1,0 +1,15 @@
+{
+  "data_name": "risk-report",
+  "encryption": {
+    "encoding": "base64",
+    "iterations": 200000,
+    "kdf": "PBKDF2-HMAC-SHA256",
+    "method": "PBKDF2-HMAC-SHA256 + HMAC-SHA256 stream XOR",
+    "nonce": "ZiQeYcoSphL7vrbgWw2vug==",
+    "plaintext": "UTF-8 JSON, sort_keys=True, separators=(',', ':')",
+    "salt": "hsB+Is+6kixCvxp4PlHtXA==",
+    "tag": "o1pDnuiMRZrkk0PZ8hbtnskkADEQNeO/lECJ2NjoIEo="
+  },
+  "file": "risk-report.json",
+  "updated_at": "2026-06-26T06:35:09.569819+00:00"
+}
