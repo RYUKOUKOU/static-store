@@ -1,0 +1,15 @@
+{
+  "data_name": "stock-universe",
+  "encryption": {
+    "encoding": "base64",
+    "iterations": 200000,
+    "kdf": "PBKDF2-HMAC-SHA256",
+    "method": "PBKDF2-HMAC-SHA256 + HMAC-SHA256 stream XOR",
+    "nonce": "ia7Wf7i6PJRfCj5yui+UPg==",
+    "plaintext": "UTF-8 JSON, sort_keys=True, separators=(',', ':')",
+    "salt": "GL21n+rHNPYhozJOBIcm5g==",
+    "tag": "UUp7ixbXB4YjRGBmoykp5yLTh19PSy3numjJpH0vOPQ="
+  },
+  "file": "stock-universe.json",
+  "updated_at": "2026-09-11T06:37:19.130240+00:00"
+}
